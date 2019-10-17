@@ -205,9 +205,9 @@ function MainPage() {
       {
         style: "button_5",
         action: {
-          images: [...Array(4).keys()].map(image => {
+          images: [...Array(2).keys()].map(image => {
             return {
-              src: `./Images/11/IMG_${image + 1}.JPG`,
+              src: `./Images/10/IMG_${image + 1}.JPG`,
               alt: `IMG_${image + 1}.JPG`
             }
           })
@@ -216,9 +216,9 @@ function MainPage() {
       {
         style: "button_6",
         action: {
-          images: [...Array(2).keys()].map(image => {
+          images: [...Array(4).keys()].map(image => {
             return {
-              src: `./Images/10/IMG_${image + 1}.JPG`,
+              src: `./Images/11/IMG_${image + 1}.JPG`,
               alt: `IMG_${image + 1}.JPG`
             }
           })
@@ -304,9 +304,9 @@ function MainPage() {
       {
         style: "button_14",
         action: {
-          images: [...Array(6).keys()].map(image => {
+          images: [...Array(12).keys()].map(image => {
             return {
-              src: `./Images/2/IMG_${image + 1}.JPG`,
+              src: `./Images/1/IMG_${image + 1}.JPG`,
               alt: `IMG_${image + 1}.JPG`
             }
           })
@@ -315,9 +315,9 @@ function MainPage() {
       {
         style: "button_15",
         action: {
-          images: [...Array(12).keys()].map(image => {
+          images: [...Array(6).keys()].map(image => {
             return {
-              src: `./Images/1/IMG_${image + 1}.JPG`,
+              src: `./Images/2/IMG_${image + 1}.JPG`,
               alt: `IMG_${image + 1}.JPG`
             }
           })

@@ -7,13 +7,14 @@ import "./index.css"
 // pages for this product
 import MainPage from "./views/MainPage/MainPage"
 
-var hist = createBrowserHistory();
-
+// var hist = createBrowserHistory();
+//history={hist}>
 ReactDOM.render(
-  <Router history={hist}>
-    <Switch>
-      <Route path="/" component={MainPage} />
-    </Switch>
-  </Router>,
+  <MainPage />,
+  // <Router basename={process.env.PUBLIC_URL} > 
+  //   <Switch>
+  //     <Route path="/" component={MainPage} />
+  //   </Switch>
+  // </Router>,
   document.getElementById("root")
 );

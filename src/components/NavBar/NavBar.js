@@ -7,7 +7,7 @@ function NavBar(props) {
     return (
         <AppBar position="fixed" color="secondary">
             <Toolbar variant="dense">
-                <Typography fontFamily={theme.typography.fontFamily} variant="h3" color="secondary.contrastText">
+                <Typography fontFamily={theme.typography.fontFamily} variant="h3y" color="secondary.contrastText">
                     The Ground You Walk On
                 </Typography>
             </Toolbar>

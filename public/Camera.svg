@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 137.2 117.2" style="enable-background:new 0 0 137.2 117.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#DCE4CC;}
+	.st1{fill:#91CABF;}
+	.st2{fill:#A9C5E1;}
+	.st3{opacity:0.95;fill:#91CABF;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#A9C5E1;}
+	.st5{opacity:0.4;fill-rule:evenodd;clip-rule:evenodd;fill:#108AC1;}
+	.st6{opacity:0.4;fill:#108AC1;}
+	.st7{fill:none;stroke:#108AC1;stroke-width:11.3386;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#000000;stroke-width:8.5039;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#108AC1;stroke-width:2.9231;stroke-miterlimit:10;}
+	.st10{fill:none;stroke:#58595B;stroke-width:2.7152;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st11{fill:#58595B;}
+	.st12{fill:none;stroke:#58595B;stroke-width:0.8432;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st13{fill:none;stroke:url(#SVGID_31_);stroke-width:2.9231;stroke-miterlimit:10;}
+	.st14{fill:none;stroke:#000000;stroke-width:2.1923;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st15{fill:none;stroke:url(#SVGID_32_);stroke-width:2.9231;stroke-miterlimit:10;}
+	.st16{opacity:0.75;}
+	.st17{fill:none;stroke:url(#SVGID_33_);stroke-width:1.4173;stroke-miterlimit:10;}
+	.st18{fill:none;stroke:#108AC1;stroke-width:1.4173;stroke-miterlimit:10;}
+	.st19{fill:none;stroke:#58595B;stroke-width:4.252;stroke-miterlimit:10;}
+	.st20{fill:#58595B;stroke:#58595B;stroke-width:1.8472;stroke-miterlimit:10;}
+	.st21{fill:#58595B;stroke:#58595B;stroke-miterlimit:10;}
+	.st22{fill:#58595B;stroke:#58595B;stroke-width:0.5926;stroke-miterlimit:10;}
+	.st23{opacity:0.2;fill:#FFFFFF;stroke:#58595B;stroke-width:2.1054;stroke-miterlimit:10;}
+	.st24{fill:#FFFFFF;}
+	.st25{fill:#005359;}
+</style>
+<g id="map">
+	<g>
+		<g>
+			<g>
+				<g>
+					<defs>
+						<rect id="SVGID_17_" x="-126.9" y="191.6" width="1278.8" height="590.5"/>
+					</defs>
+					<clipPath id="SVGID_2_">
+						<use xlink:href="#SVGID_17_"  style="overflow:visible;"/>
+					</clipPath>
+					<g style="clip-path:url(#SVGID_2_);">
+						
+							<image style="overflow:visible;" width="5032" height="2554" xlink:href="Screenshot_2019-10-12 Waimakariri River, Canterbury - NZ Topo Map.jpg"  transform="matrix(0.2578 0 0 0.2578 -145.4384 112.3278)">
+						</image>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<defs>
+					<rect id="SVGID_21_" x="-1283.4" y="191.6" width="654.3" height="666"/>
+				</defs>
+				<clipPath id="SVGID_4_">
+					<use xlink:href="#SVGID_21_"  style="overflow:visible;"/>
+				</clipPath>
+				<g style="clip-path:url(#SVGID_4_);">
+					
+						<image style="overflow:visible;" width="5032" height="2554" xlink:href="Screenshot_2019-10-12 Waimakariri River, Canterbury - NZ Topo Map copy 2.jpg"  transform="matrix(0.4961 0 0 0.4961 -1762.2019 -409.5649)">
+					</image>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="oil_map">
+</g>
+<g id="Layer_4">
+</g>
+<g id="lakes">
+</g>
+<g id="waimakariri_river">
+</g>
+<g id="ashley" class="st16">
+</g>
+<g id="rakaia" class="st16">
+</g>
+<g id="highway_73">
+</g>
+<g id="old_west_coast_road">
+</g>
+<g id="oxford">
+</g>
+<g id="camera">
+	<g>
+		<circle class="st23" cx="68.6" cy="58.6" r="49.9"/>
+		<g>
+			<circle class="st24" cx="69.4" cy="60.7" r="17.9"/>
+			<path class="st25" d="M94.2,42.8H78.8l-1.1-4.5c0-1-0.8-1.9-1.7-1.9H62.1c-1,0-1.7,0.9-1.7,1.9l-1.1,4.5H43
+				c-2.4,0-4.3,1.4-4.3,3.8V76c0,2.4,1.9,4.7,4.3,4.7h51.1c2.4,0,4.3-2.4,4.3-4.7V46.5C98.5,44.1,96.6,42.8,94.2,42.8z M68.6,74.7
+				c-7.4,0-13.4-6-13.4-13.4c0-7.4,6-13.4,13.4-13.4c7.4,0,13.4,6,13.4,13.4C82,68.7,76,74.7,68.6,74.7z"/>
+		</g>
+	</g>
+</g>
+</svg>

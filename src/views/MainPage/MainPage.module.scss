@@ -1,0 +1,29 @@
+.mainImage {
+  position: absolute;
+  width: auto;
+  height: 100%;
+  z-index: -1;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  overflow: scroll;
+  direction: rtl;
+}
+
+// .background {
+//     /* The image used */
+//     background-image: url("./Waimakariri-03.jpg");
+
+//     /* Full height */
+//     height: 100%;
+  
+//     /* Center and scale the image nicely */
+//     background-position: center;
+//     background-repeat: no-repeat;
+//     background-size: cover;
+// }
+
+.paperRoot {
+    padding: 16px;
+}

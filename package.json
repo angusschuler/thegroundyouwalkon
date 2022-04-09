@@ -12,7 +12,7 @@
     "history": "4.9.0",
     "material-auto-rotating-carousel": "^3.0.2",
     "material-ui-image": "^3.2.2",
-    "moment": "2.24.0",
+    "moment": "2.29.2",
     "node-sass": "4.13.1",
     "nouislider": "14.0.2",
     "prop-types": "15.7.2",
